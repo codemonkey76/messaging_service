@@ -1,0 +1,3 @@
+[workspace]
+members = ["clicksend_lib", "api"]
+resolver = "2"
