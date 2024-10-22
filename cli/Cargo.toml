@@ -1,0 +1,8 @@
+[package]
+name = "cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clicksend_lib = { path = "../clicksend_lib" }
+dotenv = "0.15.0"
